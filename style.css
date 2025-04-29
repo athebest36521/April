@@ -60,7 +60,7 @@ li a:hover {
   color: white
 }
 .aviation-parallax{
-  background-image: url("imgs/smallplane2.jpg");
+  background-image: url("https://cdn.glitch.global/d2538452-5dce-4f34-9ebb-a589a04122dd/smallplane2.jpg?v=1745809426298");
   min-height: 250px;
   background-position: center;
   background-repeat: no-repeat;
@@ -68,7 +68,7 @@ li a:hover {
   background-attachment: fixed;
 }
 .music-parallax{
-  background-image: url("imgs/81tQhEEtiEL.jpg");
+  background-image: url("https://cdn.glitch.global/d2538452-5dce-4f34-9ebb-a589a04122dd/81tQhEEtiEL.jpg?v=1745809446995");
   min-height: 250px;
   background-position: center;
   background-repeat: no-repeat;
@@ -76,7 +76,7 @@ li a:hover {
   background-attachment: fixed;
 }
 .tech-parallax{
-  background-image: url("imgs/The-10-Biggest-Technology-Trends-That-Will-Transform-The-Next-Decade.jpg");
+  background-image: url("https://cdn.glitch.global/d2538452-5dce-4f34-9ebb-a589a04122dd/The-10-Biggest-Technology-Trends-That-Will-Transform-The-Next-Decade.jpg?v=1745809398718");
   min-height: 250px;
   background-position: center;
   background-repeat: no-repeat;
@@ -90,4 +90,16 @@ li a:hover {
   left: 51%;
   transform: translate(-50%, -50%);
   color: black
+}
+#musicimgs{
+  width: 1000px;
+  height: 1000px;
+}
+#aviationimgs{
+  width: 1000px;
+  height: 1000px;
+}
+#techimgs{
+  width: 1000px;
+  height: 1000px;
 }
