@@ -112,3 +112,6 @@ li a:hover {
 .technology{
   background-image: linear-gradient(to right, blue, indigo, purple);
 }
+.card-img-overlay{
+bottom: inherit
+}
