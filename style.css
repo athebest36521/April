@@ -92,16 +92,13 @@ li a:hover {
   color: black
 }
 #musicimgs{
-  width: 1000px;
-  height: 1000px;
+  width: 100%;
 }
 #aviationimgs{
-  width: 1000px;
-  height: 1000px;
+  width: 100%;
 }
 #techimgs{
-  width: 1000px;
-  height: 1000px;
+  width: 100%;
 }
 .aviation{
   background-color: skyblue
