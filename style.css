@@ -103,3 +103,12 @@ li a:hover {
   width: 1000px;
   height: 1000px;
 }
+.aviation{
+  background-color: skyblue
+}
+.music{
+  background-color: #cabc6b;
+}
+.technology{
+  background-image: linear-gradient(to right, blue, indigo, purple);
+}
