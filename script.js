@@ -21,3 +21,4 @@ function changeimagemusic() {
 
 
 document.getElementById("musicimgs").addEventListener("click", changeimagemusic);
+//For loop, HTML, CSS is just basic bad
